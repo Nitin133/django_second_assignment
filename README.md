@@ -1,6 +1,7 @@
 # django_second_assignment
 
 This Assignment will cover: Django Models, and GET/POST request
+
 Consider you have to Develop a Software for Managing a Zoo. The zoo is divided into 3 categories Mammals, Birds, and Fish life. Zoo wants to manage the following features for each category:
 
 Mammal
